@@ -1,5 +1,14 @@
 # Welcome
 
-Hi everyone, My name is Harold DANSOU,
+Hi everyone, moi c'est Harold DANSOU,
 
-Welcome on my Github Page
+Bienvenue sur mon Profil GitHub
+
+# About Me
+
+J'ai 21 ans 
+
+Je suis en formation à Lyon Ynov Campus
+
+Je suis un pentester et expert cybersécurité junior
+
