@@ -12,3 +12,8 @@ Je suis en formation à Lyon Ynov Campus
 
 Je suis un pentester et expert cybersécurité junior
 
+#Tech Stack
+
+- Kali Linux
+- OSINT
+- Gnome/KDE
