@@ -10,10 +10,16 @@ J'ai 21 ans
 
 Je suis en formation à Lyon Ynov Campus
 
-Je suis un pentester et expert cybersécurité junior
+Je suis un pentester et ingénieur cybersécurité junior
 
 # Tech Stack
 
 - Kali Linux
-- OSINT
+- Parrot
 - Gnome/KDE
+
+# Compétences Techniques 
+
+- Réseaux
+- Scripting (Python, C, Bash)
+- Sécurité
