@@ -18,7 +18,7 @@ Je suis un pentester et ingénieur cybersécurité junior
 - Parrot
 - Gnome/KDE
 
-# Compétences Techniques 
+# Technical Skills 
 
 - Réseaux
 - Scripting (Python, C, Bash)
